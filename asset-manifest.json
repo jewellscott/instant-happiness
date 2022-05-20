@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instant-happiness/static/css/main.89e93d72.css",
+    "main.js": "/instant-happiness/static/js/main.177f7397.js",
+    "static/js/787.be5dfb40.chunk.js": "/instant-happiness/static/js/787.be5dfb40.chunk.js",
+    "index.html": "/instant-happiness/index.html",
+    "main.89e93d72.css.map": "/instant-happiness/static/css/main.89e93d72.css.map",
+    "main.177f7397.js.map": "/instant-happiness/static/js/main.177f7397.js.map",
+    "787.be5dfb40.chunk.js.map": "/instant-happiness/static/js/787.be5dfb40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e93d72.css",
+    "static/js/main.177f7397.js"
+  ]
+}
